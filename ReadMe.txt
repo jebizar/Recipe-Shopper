@@ -1,4 +1,4 @@
-https://curtisyungen.github.io/project-one/
+https://jebizar.github.io/Recipe-Shopper/
 
 Grocery List Generator App
 
@@ -19,4 +19,4 @@ Total price for recipe is also displayed
 
 ******
 
-Uses Edamam API for gathering recipes, ingredients
+Uses Yummly API for gathering recipes, ingredients
